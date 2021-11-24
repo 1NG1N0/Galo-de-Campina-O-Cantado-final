@@ -1,4 +1,4 @@
-
+// essa é a base do jogo, não o jogo completo
 ;
 import kaboom from "kaboom";
 
